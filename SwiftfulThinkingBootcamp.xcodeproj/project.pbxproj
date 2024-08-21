@@ -11,6 +11,7 @@
 		026E6F2A2C76599E00675892 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026E6F292C76599E00675892 /* ContentView.swift */; };
 		026E6F2C2C7659A400675892 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 026E6F2B2C7659A400675892 /* Assets.xcassets */; };
 		026E6F2F2C7659A400675892 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 026E6F2E2C7659A400675892 /* Preview Assets.xcassets */; };
+		026E6F362C765BD000675892 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026E6F352C765BD000675892 /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		026E6F292C76599E00675892 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		026E6F2B2C7659A400675892 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		026E6F2E2C7659A400675892 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		026E6F352C765BD000675892 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				026E6F272C76599E00675892 /* SwiftfulThinkingBootcampApp.swift */,
 				026E6F292C76599E00675892 /* ContentView.swift */,
+				026E6F352C765BD000675892 /* FrameBootcamp.swift */,
 				026E6F2B2C7659A400675892 /* Assets.xcassets */,
 				026E6F2D2C7659A400675892 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				026E6F2A2C76599E00675892 /* ContentView.swift in Sources */,
 				026E6F282C76599E00675892 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				026E6F362C765BD000675892 /* FrameBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
